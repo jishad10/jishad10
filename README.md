@@ -7,17 +7,6 @@
   <img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" width="400" height="300">
 </p>
 
-<!-- Add a border around the image -->
-<p align="center">
-  <kbd>
-    <img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" width="400" height="300">
-  </kbd>
-</p>
-
-<!-- Add a shadow effect to the image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" width="400" height="300" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</p>
 
 
 

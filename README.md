@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Jahidul Islam Shikdar
 #### Web Developer
-<img src="https://media.licdn.com/dms/image/D4E03AQHoZjHGX7xssg/profile-displayphoto-shrink_400_400/0/1696188346440?e=1709164800&v=beta&t=S8AInFh9rK1OHEQgW_lSm9zzE-tuQ3xOb-I_jqBCxp0" alt="Profile Photo" width="400" height="400">
+<img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" width="400" height="300">
+
 
 
 

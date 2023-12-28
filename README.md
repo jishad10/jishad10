@@ -1,4 +1,4 @@
-<img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=2000)">
+[https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=2000](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 

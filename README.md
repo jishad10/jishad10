@@ -1,4 +1,4 @@
-<img src="https://github.com/jishad10/jishad10/blob/main/Banner.jpg" alt="logo" width="500" height="300">
+<img align="center" src="https://github.com/jishad10/jishad10/blob/main/Banner.jpg" alt="logo" width="500" height="300">
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>

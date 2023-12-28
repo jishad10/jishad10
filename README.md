@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently studying at American International University - Bangladesh
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on GitHub Projects
+  
+- 💬 Ask me about anything related to programming
 
-- 🤝 I’m looking for help with **.........**
+- 📫 How to reach me jahidulislamjishad2019@gmail.com
 
-- 👨‍💻 All of my projects are available at [....](....)
+- ⚡ Fun fact:I love coding 💻
 
-- 💬 Ask me about **code**
-
-- 📫 How to reach me **dhhdhdhd**
-
-- 📄 Know about my experiences [djjdjd](djjdjd)
-
-- ⚡ Fun fact **i am**
+<p>"I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!"</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

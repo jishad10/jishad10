@@ -1,5 +1,6 @@
-<img src="https://github.com/jishad10/jishad10/blob/main/Banner.jpg" alt="logo" style="display: block; margin: 0 auto;" width="500" height="300">
-
+<div align="center">
+  <img src="https://github.com/jishad10/jishad10/blob/main/Banner.jpg" alt="Logo" width="500" height="200">
+</div>
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>

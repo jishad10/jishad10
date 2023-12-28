@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jahidul Islam Shikdar
 #### Web Developer
-<img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" width="400" height="300">
+<img src="https://avatars.githubusercontent.com/u/118066090?s=400&u=075f83103b4a57f39560893cb905ea6dbb91ec9f&v=4" alt="Web Developer" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" width="400" height="300" style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
 
 
 

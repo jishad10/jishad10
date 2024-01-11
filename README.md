@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h3 align="center">A passionate programmer && mern stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently studying at American International University - Bangladesh
 

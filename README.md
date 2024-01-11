@@ -9,6 +9,7 @@
 <h3 align="center">A passionate programmer && mern stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently studying at American International University - Bangladesh
+- 🌱 I’m learning NextJs & NodeJs
 
 - 👯 I’m looking to collaborate on GitHub Projects
   

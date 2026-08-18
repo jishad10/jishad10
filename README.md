@@ -117,6 +117,9 @@ https://ieeexplore.ieee.org/document/11504241
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jahidul10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jishadfuture@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
   </a>
 </p>

@@ -5,108 +5,72 @@ Software Engineer | Backend Engineering | Cloud & DevOps
 </h3>
 
 <p align="center">
-  Building scalable backend systems, production infrastructure, and reliable software.
+Building scalable backend systems, cloud infrastructure, and reliable production environments.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer with 2+ years of experience in backend engineering and production systems.
-- ⚙️ Specialized in Node.js, TypeScript, NestJS, Express.js, MongoDB, and Redis.
-- ☁️ Experienced in deploying and managing applications across AWS, Linux servers, VPS, Docker, and CI/CD environments.
-- 🏗️ Interested in system design, scalable architecture, distributed systems, and performance optimization.
-- 🚀 Currently learning and deepening my knowledge of **AWS and Kubernetes**.
-- 🤝 Co-lead of a multidisciplinary team working across Backend, Frontend, UI/UX, and AI.
-- 📚 Published a conference paper in IEEE BECITHCON 2025 on deep learning and medical image analysis.
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-</p>
-
-#### Backend & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
-</p>
-
-#### Databases & Data
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
-</p>
-
-#### Cloud & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
-
-#### Messaging, APIs & Tools
-
-- REST API
-- GraphQL
-- RabbitMQ
-- BullMQ
-- Redis
-- Stripe
-- Cloudinary
-- Postman
-- Swagger
-- Insomnia
-- GitHub Actions
-- CI/CD
+- 💻 Software Engineer with 2+ years of experience specializing in **backend engineering, cloud infrastructure, and production systems**.
+- ⚙️ Currently working across **backend engineering and DevOps**, with hands-on experience in AWS, Linux, Docker, CI/CD, VPS, and production deployments.
+- ☁️ Currently deepening my expertise in **AWS and Kubernetes** as I transition further toward **Cloud & DevOps Engineering**.
+- 🏗️ Interested in **system design, scalable architecture, distributed systems, infrastructure automation, and production reliability**.
+- 🤝 Co-lead of a **15+ member multidisciplinary team** spanning backend, frontend, UI/UX, and AI.
+- 📚 Co-authored a **conference paper published in IEEE BECITHCON 2025**.
 
 ---
 
-### 🏗️ What I Work On
+## 🛠️ Tech Stack
 
-- **Backend Engineering** — Scalable APIs, business logic, integrations, authentication, payments, and data-intensive workflows.
-- **System Design** — Distributed systems, caching, load balancing, asynchronous processing, database scaling, and high availability.
-- **Cloud & Infrastructure** — AWS, Linux servers, VPS deployment, Docker, networking, Nginx, SSL/TLS, DNS, and production environments.
-- **DevOps** — CI/CD, GitHub Actions, containerized deployments, automation, monitoring, and production operations.
+**Languages:**  
+TypeScript, JavaScript, Python, C++, C#
+
+**Backend & Frameworks:**  
+Node.js, NestJS, Express.js, Next.js, React, ASP.NET, Tailwind CSS, REST APIs, GraphQL
+
+**Databases & Data:**  
+MongoDB, PostgreSQL, MySQL, Microsoft SQL Server, Redis, Supabase, Firebase, Neon, Prisma, SQL & NoSQL, Database Design, Query Optimization, Indexing, Aggregation, Caching
+
+**Cloud & DevOps:**  
+AWS, Linux, Networking, Shell Scripting, Git, GitHub, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Argo CD, Terraform, Ansible, Nginx, Prometheus, Grafana
+
+**System Design:**  
+Distributed Systems, Scalable Architecture, Load Balancing, Auto Scaling, Message Queues, RabbitMQ, BullMQ, High Availability, Database Scaling
+
+**Tools:**  
+Postman, Swagger, Insomnia, Stripe, Cloudinary, Cloudflare
 
 ---
 
-### 🚀 Featured Project
+## 🏗️ What I Work On
 
-#### 🎵 Beatboks Music Platform
+- **Backend Engineering** — Scalable APIs, business logic, integrations, payment systems, asynchronous processing, and data-intensive applications.
+- **Cloud & Infrastructure** — AWS, Linux servers, VPS, Docker, networking, Nginx, DNS, SSL/TLS, storage, and production deployments.
+- **DevOps** — CI/CD, GitHub Actions, containerized deployments, automation, server administration, and production operations.
+- **System Design** — Distributed systems, caching, load balancing, asynchronous processing, database scaling, and high-availability architecture.
 
-A scalable music streaming platform built with NestJS, MongoDB, Redis, BullMQ, AWS, S3, Docker, ELB, and Auto Scaling.
+---
+
+## 🚀 Featured Project
+
+### 🎵 Beatboks Music Platform
+
+A scalable music streaming platform built with **NestJS, MongoDB, Redis, BullMQ, AWS, S3, Docker, ELB, and Auto Scaling**.
 
 - Supports **10,000+ users**
 - Asynchronous media processing with **Redis + BullMQ**
-- Large-scale audio storage and delivery using **AWS S3**
+- Large-scale audio and media storage using **AWS S3**
 - Horizontally scalable infrastructure using **ELB + Auto Scaling**
 - Automated deployment using **Docker + GitHub Actions**
 - Redis-based aggregation for high-frequency operations
 
+🔗 **Backend Repository:**  
+https://github.com/jishad10/larsfalck_backend
+
 ---
 
-### 📚 Research Publication
+## 📚 Publication
 
 **Development and Optimization of a Deep Learning Model Based on Inception v3 for Automated Detection of Retinopathy Using Optical Coherence Tomography Images**
 
@@ -114,16 +78,29 @@ A scalable music streaming platform built with NestJS, MongoDB, Redis, BullMQ, A
 
 **DOI:** 10.1109/BECITHCON69222.2025.11504241
 
----
-
-### 📜 Certifications
-
-- IBM DevOps and Software Engineering Professional Certificate
-- Google Project Management Professional Certificate
+🔗 **IEEE Xplore:**  
+https://ieeexplore.ieee.org/document/11504241
 
 ---
 
-### 🤝 Connect With Me
+## 🏆 Achievement
+
+**2nd Place — Programming Contest**  
+*Computer Programming Club | Problem Solving & Machine Learning Contest*
+
+---
+
+## 📜 Certifications
+
+- **IBM DevOps and Software Engineering Professional Certificate**  
+  🔗 https://www.coursera.org/account/accomplishments/professional-cert/1QIRR00ZSEUN
+
+- **Google Project Management Professional Certificate**  
+  🔗 https://www.coursera.org/account/accomplishments/specialization/009SUUHL68X8
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jahidul10/" target="_blank">

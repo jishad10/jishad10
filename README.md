@@ -23,23 +23,50 @@ Building scalable backend systems, cloud infrastructure, and reliable production
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-TypeScript, JavaScript, Python, C++, C#
+### Languages
 
-**Backend & Frameworks:**  
-Node.js, NestJS, Express.js, Next.js, React, ASP.NET, Tailwind CSS, REST APIs, GraphQL
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs" />
+</p>
 
-**Databases & Data:**  
-MongoDB, PostgreSQL, MySQL, Microsoft SQL Server, Redis, Supabase, Firebase, Neon, Prisma, SQL & NoSQL, Database Design, Query Optimization, Indexing, Aggregation, Caching
+### Backend & Frameworks
 
-**Cloud & DevOps:**  
-AWS, Linux, Networking, Shell Scripting, Git, GitHub, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Argo CD, Terraform, Ansible, Nginx, Prometheus, Grafana
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react,dotnet,tailwind" />
+</p>
 
-**System Design:**  
-Distributed Systems, Scalable Architecture, Load Balancing, Auto Scaling, Message Queues, RabbitMQ, BullMQ, High Availability, Database Scaling
+**APIs:** REST APIs, GraphQL
 
-**Tools:**  
-Postman, Swagger, Insomnia, Stripe, Cloudinary, Cloudflare
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,firebase,supabase" />
+</p>
+
+**Also:** Microsoft SQL Server, Neon, SQL & NoSQL, Database Design, Query Optimization, Indexing, Aggregation, Caching
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,nginx,terraform,ansible,jenkins" />
+</p>
+
+**CI/CD:** GitHub Actions, Jenkins, Argo CD  
+**Monitoring:** Prometheus, Grafana  
+**Infrastructure:** Networking, Shell Scripting
+
+### System Design
+
+**Distributed Systems** • **Scalable Architecture** • **Load Balancing** • **Auto Scaling** • **Message Queues** • **RabbitMQ** • **BullMQ** • **High Availability** • **Database Scaling**
+
+### Tools & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+**API & Testing:** Postman, Swagger, Insomnia  
+**Integrations:** Stripe, Cloudinary, Cloudflare
 
 ---
 

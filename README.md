@@ -1,40 +1,139 @@
-<!--
-<div align="center">
-  <img src="https://github.com/jishad10/jishad10/blob/main/Banner.jpg" alt="Logo" width="750" height="300">
-</div>
--->
+<h1 align="center">Hi 👋, I'm Jahidul Islam Shikdar</h1>
 
+<h3 align="center">
+Software Engineer | Backend Engineering | Cloud & DevOps
+</h3>
 
-<h1 align="center">Hi 👋 I'm Jahidul Islam Shikdar (Jishad)</h1>
-<h3 align="center">A passionate programmer,ASP .NET && Mern stack developer from Bangladesh</h3>
-
-- 🌱 I’m currently studying at American International University - Bangladesh
-- 🌱 I’m learning NextJS & NestJS
-
-- 👯 I’m looking to collaborate on GitHub Projects
-  
-- 💬 Ask me about anything related to programming
-
-- 📫 How to reach me jahidulislamjishad2019@gmail.com
-
-- ⚡ Fun fact:I love coding 💻
-
-<p>"I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!"</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jahidul10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahidul10/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jahidulislam.jishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jahidulislam.jishad" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jahidulislamjishad/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jahidulislamjishad/?hl=en" height="30" width="40" /></a>
+<p align="center">
+  Building scalable backend systems, production infrastructure, and reliable software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishad10&show_icons=true&locale=en&layout=compact" alt="jishad10" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jishad10&show_icons=true&locale=en" alt="jishad10" /></p>
+- 💻 Software Engineer with 2+ years of experience in backend engineering and production systems.
+- ⚙️ Specialized in Node.js, TypeScript, NestJS, Express.js, MongoDB, and Redis.
+- ☁️ Experienced in deploying and managing applications across AWS, Linux servers, VPS, Docker, and CI/CD environments.
+- 🏗️ Interested in system design, scalable architecture, distributed systems, and performance optimization.
+- 🚀 Currently learning and deepening my knowledge of **AWS and Kubernetes**.
+- 🤝 Co-lead of a multidisciplinary team working across Backend, Frontend, UI/UX, and AI.
+- 📚 Published a conference paper in IEEE BECITHCON 2025 on deep learning and medical image analysis.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishad10&label=Profile%20views&color=0e75b6&style=flat" alt="jishad10" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🛠️ Tech Stack
+
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+</p>
+
+#### Backend & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+</p>
+
+#### Databases & Data
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
+</p>
+
+#### Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
+
+#### Messaging, APIs & Tools
+
+- REST API
+- GraphQL
+- RabbitMQ
+- BullMQ
+- Redis
+- Stripe
+- Cloudinary
+- Postman
+- Swagger
+- Insomnia
+- GitHub Actions
+- CI/CD
+
+---
+
+### 🏗️ What I Work On
+
+- **Backend Engineering** — Scalable APIs, business logic, integrations, authentication, payments, and data-intensive workflows.
+- **System Design** — Distributed systems, caching, load balancing, asynchronous processing, database scaling, and high availability.
+- **Cloud & Infrastructure** — AWS, Linux servers, VPS deployment, Docker, networking, Nginx, SSL/TLS, DNS, and production environments.
+- **DevOps** — CI/CD, GitHub Actions, containerized deployments, automation, monitoring, and production operations.
+
+---
+
+### 🚀 Featured Project
+
+#### 🎵 Beatboks Music Platform
+
+A scalable music streaming platform built with NestJS, MongoDB, Redis, BullMQ, AWS, S3, Docker, ELB, and Auto Scaling.
+
+- Supports **10,000+ users**
+- Asynchronous media processing with **Redis + BullMQ**
+- Large-scale audio storage and delivery using **AWS S3**
+- Horizontally scalable infrastructure using **ELB + Auto Scaling**
+- Automated deployment using **Docker + GitHub Actions**
+- Redis-based aggregation for high-frequency operations
+
+---
+
+### 📚 Research Publication
+
+**Development and Optimization of a Deep Learning Model Based on Inception v3 for Automated Detection of Retinopathy Using Optical Coherence Tomography Images**
+
+*Conference Paper — IEEE BECITHCON 2025*
+
+**DOI:** 10.1109/BECITHCON69222.2025.11504241
+
+---
+
+### 🏆 Achievement
+
+**2nd Place — Programming Contest**  
+*Computer Programming Club | Problem Solving & Machine Learning Contest*
+
+---
+
+### 📜 Certifications
+
+- IBM DevOps and Software Engineering Professional Certificate
+- Google Project Management Professional Certificate
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jahidul10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+</p>

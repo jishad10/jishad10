@@ -24,29 +24,25 @@ Building scalable backend systems, cloud infrastructure, and reliable production
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs" />
 </p>
 
 ### Backend & Frameworks
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react,dotnet,tailwind" />
 </p>
 
-**APIs:** REST APIs, GraphQL
+**APIs:** REST, GraphQL
 
 ### Databases & Data
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,supabase,firebase" />
 </p>
 
-**Also:** Microsoft SQL Server, Neon, SQL & NoSQL, Database Design, Query Optimization, Indexing, Aggregation, Caching
+**Also:** Microsoft SQL Server, Neon, SQL & NoSQL, Database Design, Indexing, Aggregation, Query Optimization, Caching
 
 ### Cloud & DevOps
-
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,nginx,terraform,ansible,jenkins" />
 </p>
@@ -57,16 +53,13 @@ Building scalable backend systems, cloud infrastructure, and reliable production
 
 ### System Design
 
-**Distributed Systems** • **Scalable Architecture** • **Load Balancing** • **Auto Scaling** • **Message Queues** • **RabbitMQ** • **BullMQ** • **High Availability** • **Database Scaling**
+Distributed Systems · Scalable Architecture · Load Balancing · Auto Scaling · Message Queues · High Availability · Database Scaling · Caching
+
+**Messaging:** RabbitMQ · BullMQ
 
 ### Tools & Integrations
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
-
-**API & Testing:** Postman, Swagger, Insomnia  
-**Integrations:** Stripe, Cloudinary, Cloudflare
+Postman · Swagger · Insomnia · Stripe · Cloudinary · Cloudflare
 
 ---
 

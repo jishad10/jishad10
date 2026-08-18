@@ -103,13 +103,6 @@ https://ieeexplore.ieee.org/document/11504241
 
 ---
 
-## 🏆 Achievement
-
-**2nd Place — Programming Contest**  
-*Computer Programming Club | Problem Solving & Machine Learning Contest*
-
----
-
 ## 📜 Certifications
 
 - **IBM DevOps and Software Engineering Professional Certificate**  

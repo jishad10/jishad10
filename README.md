@@ -116,13 +116,6 @@ A scalable music streaming platform built with NestJS, MongoDB, Redis, BullMQ, A
 
 ---
 
-### 🏆 Achievement
-
-**2nd Place — Programming Contest**  
-*Computer Programming Club | Problem Solving & Machine Learning Contest*
-
----
-
 ### 📜 Certifications
 
 - IBM DevOps and Software Engineering Professional Certificate
